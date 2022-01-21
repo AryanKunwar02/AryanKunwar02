@@ -2,6 +2,5 @@ I am a 2nd year studentpursuing BTech in Computer Science & Business System (cur
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanKunwar02&theme=dark&show_icons=true)
 
-![laptop](https://user-images.githubusercontent.com/81226134/150574461-a1f71d28-a442-4aa5-9863-7c3a7e7bf6fa.gif)
 
 
