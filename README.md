@@ -1,22 +1,6 @@
-I am a 2nd year student pursuing BTech in Computer Science & Business System (curriculum by TCS) 🎓 from Ramrao Adik Institute Of Technology (RAIT). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. I am currently into Web Development and working on brushing up my skills.
-
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanKunwar02&theme=dark&show_icons=true)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/AryanKunwar10" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aryan-kunwar-9a6219209/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/starboy_2002/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-</p>
-
-
-
-
-
 @@ -1,3 +1,5 @@
 
-<!--  https://ritik307.github.io/portfolio/  -->
+
 <p align="center">
 
 </p align="center">
@@ -25,15 +9,15 @@ I am a 2nd year student pursuing BTech in Computer Science & Business System (cu
 
 <p align="center">
 
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: ritikpr307@gmail.com">
- <img src="https://img.shields.io/badge/-ritikpr307-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
+<!-- <img src="https://img.shields.io/badge/-aryan-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
+<a href="mailto: aryankunwarr@gmail.com">
+ <img src="https://img.shields.io/badge/-aryankunwar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryankunwarr@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
+<a href="https://www.linkedin.com/in/aryan-kunwar-9a6219209/">
+ <img src="https://img.shields.io/badge/-aryankunwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryan-kunwar-9a6219209/"/>
 </a>
- <a href="https://twitter.com/ritikhere307">
- <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
+ <a href="https://twitter.com/AryanKunwar10">
+ <img src="https://img.shields.io/badge/-aryankunwar10-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/aryankunwar10"/>
 </a>
 </p>
 <h2 align="center">
@@ -48,14 +32,14 @@ I am a 2nd year student pursuing BTech in Computer Science & Business System (cu
  
 <br>
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ritik307&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=AryanKunwar02&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AryanKunwar02&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AryanKunwar02&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=AryanKunwar02&theme=redical">
 </p> 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
