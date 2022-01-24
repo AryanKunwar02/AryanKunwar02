@@ -3,6 +3,28 @@
 <h1 align="center"><em><strong> Hello, folks!</strong></em><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 I am a 2nd year student pursuing BTech in Computer Science & Business System (curriculum by TCS) 🎓 from Ramrao Adik Institute Of Technology (RAIT). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. I am currently into Web Development and working on brushing up my skills.
 
+ <p align="center">
+    <a href="https://github.com/AryanKunwar02/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://codecov.io/gh/AryanKunwar02/github-readme-stats">
+      <img src="https://codecov.io/gh/AryanKunwar02/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/AryanKunwar02/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/AryanKunwar02/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/AryanKunwar02/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/AryanKunwar02/github-readme-stats?color=0088ff" />
+    </a>
+    <br />
+    <br />
+<!--     <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+    </a>
+    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
+      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+    </a> -->
+  </p>
 
 <p align="center">
 
