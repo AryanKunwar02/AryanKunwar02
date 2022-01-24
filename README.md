@@ -65,10 +65,10 @@ I am a 2nd year student pursuing BTech in Computer Science & Business System (cu
 </p>
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AryanKunwar02&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+<!-- </p> 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=AryanKunwar02&theme=redical">
-</p> 
+</p>  -->
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
 
