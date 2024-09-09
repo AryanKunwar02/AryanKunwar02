@@ -1,7 +1,7 @@
 <!-- @@ -1,3 +1,5 @@ -->
 
 <h1 align="center"><em><strong> Hello, folks!</strong></em><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-I am a final year student pursuing BTech in Computer Science & Business System (curriculum by TCS) 🎓 from Ramrao Adik Institute Of Technology (RAIT). I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. I am currently into Web Development and working on brushing up my skills.
+I am currently pursuing a Master of Science in Computer Science 🎓 from the University of Southern California (USC). I'm a passionate learner, always eager to explore new technologies and work across various domains 💡. I enjoy leveraging my technical skills to solve real-life problems and continuously seek opportunities to enhance my expertise. Currently, I am focused on software engineering and continuously refining my skills to stay updated with the latest advancements.
 
 
 
